@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanmay Sharma</h1>
+<h1 align="center">Hi I'm Tanmay Sharma</h1>
 <h3 align="center">Computer Science undergraduate at VIT Vellore with strong interest in DSA, backend development, and building scalable systems.</h3>
 
 - 🔭 I’m currently working on **AI-Powered Job Recommendation Engine**
